@@ -38,5 +38,3 @@ A decentralized marketplace for distributed computing resources built on Stacks 
 - `get-worker`: Get worker information
 - `get-platform-stats`: Get platform statistics
 
-## License
-MIT License
